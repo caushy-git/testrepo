@@ -1,1 +1,3 @@
 let's see how it;s work in the cmd prompt
+
+let's see git bash is working or not
